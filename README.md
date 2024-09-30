@@ -1,4 +1,4 @@
-# data-race-test
+# `ThreadSanitizer` (aka `TSan`, not __Thread Sanitizer__)
 
 > [!NOTE] 
 > 
@@ -10,6 +10,8 @@
 ![image](https://github.com/user-attachments/assets/db191fa3-1669-424d-a3f6-c20fce3a84b2)
 
 ## Description
+
+ThreadSanitizer (aka TSan, not Thread Sanitizer) is a data race detector for C/C++ programs.<br/>
 
 Race detection tools and more
 
