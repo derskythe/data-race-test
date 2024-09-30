@@ -4,7 +4,8 @@
 > 
 > This is yet another fork of the project [data-race-test](https://code.google.com/archive/p/data-race-test/) \(Thread Sanitizer\).
 > 
-> The goal of the fork: tried to save documents and Wiki, which are missing from others
+> The goal of the fork: tried to save documents and [Wiki](https://github.com/derskythe/data-race-test/wiki), which are missing from others<br />
+> WIP
 
 ![image](https://github.com/user-attachments/assets/db191fa3-1669-424d-a3f6-c20fce3a84b2)
 
